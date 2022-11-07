@@ -1,0 +1,14 @@
+* 
+
+.boton div {
+    background-color: chartreuse;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.boton #button2 {
+    background: red;
+}
